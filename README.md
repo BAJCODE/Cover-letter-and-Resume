@@ -5,15 +5,19 @@
 #
 ### Khakendra Baduwal
 
-<img align="right" width="190" height="200" src="github1.jpg">
+<img align="left" width="175" height="175" src="github1.jpg">
 
 Chikka Pullappa Layout
 
-Horamavu Agara, Bengaluru – 560043
+Horamavu Agara,
 
- Email ID: khba18cs@cmrit.ac.in
+Bengaluru – 560043
+
+Email ID: khba18cs@cmrit.ac.in
 
 Mobile No: +91 807 345 7151
+
+
 
 ### CAREER OBJECTIVE
 
