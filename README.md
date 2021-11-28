@@ -91,11 +91,16 @@ Database: Designing Databases, MariaDB.
 
 ## PERSONAL DETAILS
 
-Date of Birth : 04/09/
+Date of Birth : 04/09/1999
+
 Gender : Male
+
 Nationality : Nepali
+
 Marital Status : Single
+
 Languages Known : Nepali, Hindi, and English
+
 Hobbies : Chess, Travelling, Listening Music.
 
 ## Reference
