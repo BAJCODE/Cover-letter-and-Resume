@@ -7,11 +7,13 @@
 
 <img align="right" width="190" height="200" src="github1.jpg">
 
+Chikka Pullappa Layout
+
 Horamavu Agara, Bengaluru – 560043
 
-## Email ID: khba18cs@cmrit.ac.in
+ Email ID: khba18cs@cmrit.ac.in
 
-## Mobile No: +91 807 345 7151
+Mobile No: +91 807 345 7151
 
 ### CAREER OBJECTIVE
 
@@ -68,8 +70,8 @@ Database: Designing Databases, MariaDB.
 
 - Seminars: Attended various Technical/Non-Technical Seminars
 - Online Courses:
-    o Python for Everybody Specialization by UMICH, Coursera (2/5 courses).
-    oHuman-Computer Interaction by IIIT Delhi, NPTEL.
+    - Python for Everybody Specialization by UMICH, Coursera (2/5 courses).
+    - Human-Computer Interaction by IIIT Delhi, NPTEL.
 
 #### Extra – Curricular Activities:
 
@@ -80,7 +82,7 @@ Database: Designing Databases, MariaDB.
 ## AWARDS & ACHIEVEMENTS
 
 - Participated in college-level Python Hackathon
-    - Participated in Tree Plantation activities in the
+- Participated in Tree Plantation activities in the
     city.
 
 ## PERSONAL DETAILS
