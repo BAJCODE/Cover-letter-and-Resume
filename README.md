@@ -5,6 +5,8 @@
 #
 ### Khakendra Baduwal
 
+<img align="right" width="190" height="200" src="github1.jpg">
+
 Horamavu Agara, Bengaluru – 560043
 
 ## Email ID: khba18cs@cmrit.ac.in
