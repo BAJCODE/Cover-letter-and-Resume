@@ -27,7 +27,7 @@ grow.
 | HSC (Karnataka PU BOARD) | Indo-Asian Academy,Bengaluru. | 73.56 % | 2018 |
 | SSLC (NEB) | Panchodaya HigherSecondary school,Dhangadhi, Province-7,Nepal. | 6.5 cgpa (outof 10) | 2016 |
 
-##Technical Skills
+## Technical Skills
 <!-- | **Technical Skills** |
 |---| -->
 
@@ -38,7 +38,8 @@ Software: HTML, CSS, JavaScript(beginner), bootstrap, VS code, Xampp(Beginner), 
 
 Database: Designing Databases, MariaDB.
 
-##PROJECTS
+
+## PROJECTS
 <!-- | **PROJECTS** |
 |---| -->
 
@@ -59,28 +60,28 @@ Database: Designing Databases, MariaDB.
     CRUD operations, Basic User authentication.
 
 
-##Co-Curricular Activities & Extra-Curricular Activities
+## Co-Curricular Activities & Extra-Curricular Activities
 
-###Co-Curricular Activities
+#### Co- Curricular Activities
 
 - Seminars: Attended various Technical/Non-Technical Seminars
 - Online Courses:
     o Python for Everybody Specialization by UMICH, Coursera (2/5 courses). o
     Human-Computer Interaction by IIIT Delhi, NPTEL.
 
-##Extra-Curricular Activities:
+#### Extra – Curricular Activities:
 
 - Video and Photo Editing.
 - Chess.
 - Casual player of Cricket, Football.
 
-##AWARDS & ACHIEVEMENTS
+## AWARDS & ACHIEVEMENTS
 
 - Participated in college-level Python Hackathon
     - Participated in Tree Plantation activities in the
     city.
 
-##PERSONAL DETAILS
+## PERSONAL DETAILS
 
 Date of Birth : 04/09/
 Gender : Male
@@ -89,7 +90,7 @@ Marital Status : Single
 Languages Known : Nepali, Hindi, and English
 Hobbies : Chess, Travelling, Listening Music.
 
-##Reference
+## Reference
 
 - Name: Lakshman Malla
     Designation: Placement Director
