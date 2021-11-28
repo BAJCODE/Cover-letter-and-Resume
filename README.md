@@ -23,7 +23,7 @@ grow.
 
 | **Course** | **Institution** | **Marks Obtained** | **Passed out Year** |
 |--------| ----------- | -------------- | ----------------|
-| BE in Computer Science and Engineering | CMR Institute of Technology | 6.80 CGPA | 2022 (pursuing) |
+| BE in Computer Science and Engineering | CMR Institute of Technology | 6.80 CGPA(I-VI SEM) | 2022 (pursuing) |
 | HSC (Karnataka PU BOARD) | Indo-Asian Academy,Bengaluru. | 73.56 % | 2018 |
 | SSLC (NEB) | Panchodaya HigherSecondary school,Dhangadhi, Province-7,Nepal. | 6.5 cgpa (outof 10) | 2016 |
 
