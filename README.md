@@ -1,4 +1,23 @@
 
+Dear Human Resource Team,
+
+I am thankful to you for taking the time to review my resume. I am currently a final year Computer Science and Engineering student doing my Bachelors in Engineering from CMR Insitute of Technology, Bangalore and I am intrested in the given job role.
+
+
+The job description matches my talents and intrests, as I have done some mooc course on web development and I have some knowledge and experience on web development and also fo the company's quick growth, I am willing to gain additional skills while simultaneously growing my carrer to meet defined objects.
+
+
+If you have questions regarding my credentials or anything else about myself, please feel free to call or email me. I’m always available in both sides.
+
+Again, I would like to thank you for reviewing my resume. I really look forward to hearing from you in the near future.
+I hope that I can be considered for the team.
+
+Thanks for regarding,
+
+Sincerely,
+Khakendra Baduwal
+
+
 # Resume
 
 <!-- My RESUME -->
