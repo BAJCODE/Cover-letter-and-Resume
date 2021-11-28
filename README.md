@@ -5,7 +5,7 @@
 #
 ### Khakendra Baduwal
 
-<img align="left" width="175" height="175" src="Passpotphoto.jpg">
+<img align="left" width="175" height="175" src="Passportphoto.jpeg">
 
 Chikka Pullappa Layout
 
