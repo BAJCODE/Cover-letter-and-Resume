@@ -30,10 +30,10 @@ Khakendra Baduwal
 2nd cross,
 
 Chikka Pullappa Layout
-
 Horamavu Agara main road,
 
 Bengaluru – 560043
+
 
 Email ID: khba18cs@cmrit.ac.in
 
