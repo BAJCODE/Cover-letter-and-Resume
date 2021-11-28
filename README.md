@@ -130,12 +130,19 @@ Hobbies &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 
 ## Reference
 
 - Name: Lakshman Malla
+- 
     Designation: Placement Director
+    
     Email ID: director.placement@cmrit.ac.in
+    
     Phone No: +91 9845027392
+    
 - Name: Dr Shreekanth M Prabhu
+- 
     Designation: Head of Department, CSE
+    
     Email ID: hod.cse@cmrit.ac.in Phone
+    
     No: +91 9880479148
 
 
