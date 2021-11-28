@@ -1,13 +1,14 @@
+<!-- Cover letter -->
+# Cover Letter
 
+### Khakendra Baduwal
 Dear Human Resource Team,
 
 I am thankful to you for taking the time to review my resume. I am currently a final year Computer Science and Engineering student doing my Bachelors in Engineering from CMR Insitute of Technology, Bangalore and I am intrested in the given job role.
 
+My project majorly revolves around web technologies like LMS(refer resume), I find that the job role matches my talents and interests, as I have done some mooc course on web development and I have some knowledge and experience on web development and also for the company's quick growth, I am willing to gain additional skills while simultaneously growing my carrer to meet defined objectives.
 
-The job description matches my talents and intrests, as I have done some mooc course on web development and I have some knowledge and experience on web development and also fo the company's quick growth, I am willing to gain additional skills while simultaneously growing my carrer to meet defined objects.
-
-
-If you have questions regarding my credentials or anything else about myself, please feel free to call or email me. I’m always available in both sides.
+As a fresher starting my carrer at Ontum Education will be a great oppurtinity for me. 
 
 Again, I would like to thank you for reviewing my resume. I really look forward to hearing from you in the near future.
 I hope that I can be considered for the team.
@@ -72,14 +73,17 @@ Database: Designing Databases, MariaDB.
 
 - Project 1
     Title: Online Kannada learning platform
+    
     Description: The platform provides a pleasing experience of learning with bite-sized
     comprehensive content and gamification of learning with short quizzes. This project is yet in
     progress.
     Tools used: HTML, CSS, JavaScript, Bootstrap, PHP, Xampp, Git.
     Learning Outcome: We learned Web technologies and simple version controlling using git and
     basic UI design.
+    
 - Project 2
     Title: Library Management System.
+    
     Description: A Basic dashboard for librarian-student Interface where students can be registered
     and issue/return books along with adding/removing books from the database by librarians.
     Tools used: HTML, CSS, bootstrap, JavaScript, PHP, Xampp, MySQL/MariaDB.
@@ -95,6 +99,7 @@ Database: Designing Databases, MariaDB.
 - Online Courses:
     - Python for Everybody Specialization by UMICH, Coursera (2/5 courses).
     - Human-Computer Interaction by IIIT Delhi, NPTEL.
+    - The Complete 2022 Web Development Bootcamp,Udemy,Created by Dr.Angela Yu
 
 #### Extra – Curricular Activities:
 
@@ -110,17 +115,17 @@ Database: Designing Databases, MariaDB.
 
 ## PERSONAL DETAILS
 
-Date of Birth : 04/09/1999
+Date of Birth &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 04/09/1999
 
-Gender : Male
+Gender &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Male
 
-Nationality : Nepali
+Nationality &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Nepali
 
-Marital Status : Single
+Marital Status  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Single
 
-Languages Known : Nepali, Hindi, and English
+Languages Known &nbsp; &nbsp; : Nepali, Hindi, and English
 
-Hobbies : Chess, Travelling, Listening Music.
+Hobbies &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : Chess, Travelling, Listening Music.
 
 ## Reference
 
