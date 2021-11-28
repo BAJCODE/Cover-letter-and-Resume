@@ -4,7 +4,7 @@
 ### Khakendra Baduwal
 Dear Human Resource Team,
 
-I am thankful to you for taking the time to review my resume. I am currently a final year Computer Science and Engineering student doing my Bachelors in Engineering from CMR Insitute of Technology, Bangalore and I am intrested in the given job role.
+I am thankful to you for taking the time to review my resume. I am currently a final year Computer Science Engineering student doing my Bachelors in Engineering from CMR Insitute of Technology, Bangalore and I am intrested in the given job role.
 
 My project majorly revolves around web technologies like LMS(refer resume), I find that the job role matches my talents and interests, as I have done some mooc course on web development and I have some knowledge and experience on web development and also for the company's quick growth, I am willing to gain additional skills while simultaneously growing my carrer to meet defined objectives.
 
