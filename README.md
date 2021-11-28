@@ -77,7 +77,9 @@ Database: Designing Databases, MariaDB.
     Description: The platform provides a pleasing experience of learning with bite-sized
     comprehensive content and gamification of learning with short quizzes. This project is yet in
     progress.
+    
     Tools used: HTML, CSS, JavaScript, Bootstrap, PHP, Xampp, Git.
+    
     Learning Outcome: We learned Web technologies and simple version controlling using git and
     basic UI design.
     
@@ -86,7 +88,9 @@ Database: Designing Databases, MariaDB.
     
     Description: A Basic dashboard for librarian-student Interface where students can be registered
     and issue/return books along with adding/removing books from the database by librarians.
+    
     Tools used: HTML, CSS, bootstrap, JavaScript, PHP, Xampp, MySQL/MariaDB.
+    
     Learning Outcome: Designing databases and Relational Model from ER Diagram, Implementing
     CRUD operations, Basic User authentication.
 
@@ -99,7 +103,7 @@ Database: Designing Databases, MariaDB.
 - Online Courses:
     - Python for Everybody Specialization by UMICH, Coursera (2/5 courses).
     - Human-Computer Interaction by IIIT Delhi, NPTEL.
-    - The Complete 2022 Web Development Bootcamp,Udemy,Created by Dr.Angela Yu
+    - The Complete 2022 Web Development Bootcamp(Ongoing), Udemy, Created by Dr.Angela Yu
 
 #### Extra – Curricular Activities:
 
@@ -130,7 +134,7 @@ Hobbies &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 
 ## Reference
 
 - Name: Lakshman Malla
-- 
+
     Designation: Placement Director
     
     Email ID: director.placement@cmrit.ac.in
@@ -138,12 +142,12 @@ Hobbies &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; : 
     Phone No: +91 9845027392
     
 - Name: Dr Shreekanth M Prabhu
-- 
+
     Designation: Head of Department, CSE
     
-    Email ID: hod.cse@cmrit.ac.in Phone
+    Email ID: hod.cse@cmrit.ac.in 
     
-    No: +91 9880479148
+    Phone No: +91 9880479148
 
 
 
