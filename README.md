@@ -1,4 +1,9 @@
-# Khakendra Baduwal
+
+# Resume
+
+<!-- My RESUME -->
+#
+### Khakendra Baduwal
 
 Horamavu Agara, Bengaluru – 560043
 
