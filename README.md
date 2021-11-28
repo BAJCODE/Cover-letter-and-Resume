@@ -27,9 +27,11 @@ Khakendra Baduwal
 
 <img align="left" width="175" height="175" src="Passportphoto.jpeg">
 
+2nd cross,
+
 Chikka Pullappa Layout
 
-Horamavu Agara,
+Horamavu Agara main road,
 
 Bengaluru – 560043
 
