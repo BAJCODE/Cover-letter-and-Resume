@@ -68,8 +68,8 @@ Database: Designing Databases, MariaDB.
 
 - Seminars: Attended various Technical/Non-Technical Seminars
 - Online Courses:
-    o Python for Everybody Specialization by UMICH, Coursera (2/5 courses). o
-    Human-Computer Interaction by IIIT Delhi, NPTEL.
+    o Python for Everybody Specialization by UMICH, Coursera (2/5 courses).
+    oHuman-Computer Interaction by IIIT Delhi, NPTEL.
 
 #### Extra – Curricular Activities:
 
