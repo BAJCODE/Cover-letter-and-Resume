@@ -17,41 +17,20 @@ A solutions-oriented person and eager to learn new technologies in IT and apply 
 to achieve real-life solutions and awaiting to launch my career with an organization that helps me
 grow.
 
-EDUCATION QUALIFICATION
+## EDUCATION QUALIFICATION
+<!-- | **EDUCATION QUALIFICATION** |
+|---| -->
 
-```
-Course Institution Marks
-Obtained
-```
-```
-Passing/Passed
-out Year
-BE-CSE (VTU) CMR Institute of Technology,
-Bengaluru.
-```
-```
-6.80 cgpa (I-
-VI SEM)
-```
-### 2022
-
-```
-HSC (Karnataka PU BOARD) Indo-Asian Academy,
-Bengaluru.
-```
-### 73.56% 2018
-
-```
-SSLC (NEB) Panchodaya Higher
+| **Course** | **Institution** | **Marks Obtained** | **Passed out Year** |
+|--------| ----------- | -------------- | ----------------|
+| BE in Computer Science and Engineering | CMR Institute of Technology | 6.80 CGPA | 2022 (pursuing) |
+| HSC (Karnataka PU BOARD) | Indo-Asian Academy,
+Bengaluru. | 73.56 % | 2018 |
+| SSLC (NEB) | Panchodaya Higher
 Secondary school,
 Dhangadhi, Province-7,
-Nepal.
-```
-```
-6.5 cgpa (out
-of 10)
-```
-### 2016
+Nepal. | 6.5 cgpa (out
+of 10) | 2016 |
 
 Technical Skills
 
